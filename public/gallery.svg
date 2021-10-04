@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -952.36)">
+  <circle cx="50" cy="1002.4" r="45.669" fill="#8175ff"/>
+  <circle cx="50" cy="1002.4" r="26.214" fill="#424242"/>
+  <path d="m50 964.01a38.35 38.35 0 0 0 -22.285 7.1969l38.122 22.009v-25.744a38.35 38.35 0 0 0 -15.837 -3.4623z" fill="#bababa" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width=".84"/>
+  <path d="m27.715 971.21a38.35 38.35 0 0 0 -16.065 31.153 38.35 38.35 0 0 0 0.21814 3.728l38.132-22.016-22.285-12.865z" fill="#bababa" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width=".84"/>
+  <path d="m34.163 993.22-22.294 12.872a38.35 38.35 0 0 0 22.294 31.159v-44.031z" fill="#bababa" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width=".84"/>
+  <path d="m34.163 1011.5v25.744a38.35 38.35 0 0 0 15.837 3.4624 38.35 38.35 0 0 0 22.285 -7.197l-38.122-22.009z" fill="#bababa" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width=".84"/>
+  <path d="m88.132 998.63-38.132 22.016 22.285 12.865a38.35 38.35 0 0 0 16.065 -31.153 38.35 38.35 0 0 0 -0.21814 -3.7281z" fill="#bababa" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width=".84"/>
+  <path d="m65.837 967.47v44.031l22.294-12.872a38.35 38.35 0 0 0 -22.294 -31.159z" fill="#bababa" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="round" stroke-width=".84"/>
+ </g>
+</svg>

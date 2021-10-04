@@ -1,0 +1,16 @@
+.main_container {
+  height: 100%;
+  width: 100%;
+  background-color: #666;
+}
+
+.videoElement {
+  width: 500px;
+  height: 375px;
+  background-color: #666;
+}
+
+.screen {
+  height: 100%;
+  width: 100%;
+}
